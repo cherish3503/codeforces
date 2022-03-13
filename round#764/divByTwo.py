@@ -1,3 +1,5 @@
+#TLE
+
 import sys
 def choosePermutation(arr, retArr, depth):
   swtch = False

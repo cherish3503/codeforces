@@ -1,3 +1,5 @@
+# WA
+
 import sys
 
 for _ in range(int(input())):
